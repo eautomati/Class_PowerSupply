@@ -17,6 +17,7 @@
 		</Item>
 		<Item Name="B&amp;K_Precision.lvclass" Type="LVClass" URL="../B&amp;K_Precision/B&amp;K_Precision.lvclass"/>
 		<Item Name="KEITHLEY.lvclass" Type="LVClass" URL="../KEITHLEY/KEITHLEY.lvclass"/>
+		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
